@@ -1,15 +1,65 @@
-Project Description: Developed a comprehensive Power BI dashboard to analyze Zomato data, providing actionable insights into restaurant performance, customer preferences, and market trends. The dashboard helps in identifying top-performing restaurants, understanding customer behavior, and making data-driven decisions to improve restaurant services and customer satisfaction.
+📊 Zomato Data Analysis Dashboard
 
-Key Responsibilities & Achievements:
 
-Cleaned and transformed data from multiple sources using Power Query to ensure data accuracy and consistency.
+📌 Project Description
+Developed an interactive Power BI dashboard to analyze Zomato data, delivering actionable insights into restaurant performance, customer preferences, and market trends.
+The dashboard empowers stakeholders to:
 
-Developed a robust data model to create relationships between different data tables, enabling complex analysis.
+Identify top-performing restaurants
 
-Authored advanced DAX (Data Analysis Expressions) queries to calculate key metrics such as average ratings, delivery times, and popular cuisines.
+Understand customer behavior
 
-Designed interactive and visually appealing dashboards with slicers, filters, and drill-through capabilities to facilitate easy data exploration.
+Make data-driven decisions to improve services and customer satisfaction
 
-Extracted key insights on customer ordering patterns, peak hours, and popular dishes, leading to a potential 15% improvement in targeted marketing strategies.
 
-Tools & Technologies: Power BI, DAX, Power Query, Excel.
+🚀 Key Responsibilities & Achievements
+🔹 Data Cleaning & Transformation
+Utilized Power Query to clean and transform data from multiple sources, ensuring accuracy and consistency.
+
+🔹 Data Modeling
+Built a robust data model with relationships between different tables to enable complex analytics.
+
+🔹 Advanced DAX Calculations
+Developed advanced DAX measures to compute KPIs such as:
+
+Average ratings
+
+Delivery times
+
+Popular cuisines
+
+🔹 Dashboard Design
+Designed visually appealing dashboards with:
+
+Slicers
+
+Filters
+
+Drill-through capabilities
+
+🔹 Insight Extraction
+Identified patterns in:
+
+Customer ordering behavior
+
+Peak hours
+
+Popular dishes
+
+Insights contributed to a potential 15% improvement in targeted marketing strategies.
+
+🛠 Tools & Technologies
+Power BI
+
+DAX
+
+Power Query
+
+Excel
+
+📂 How to Use
+Download the .pbix file from this repository.
+
+Open it using Power BI Desktop.
+
+Explore the dashboard using slicers, filters, and drill-through pages.
